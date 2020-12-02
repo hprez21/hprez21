@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 🤘
 
-<!--
-**hprez21/hprez21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i am héctor pérez, from El Camino Dev, I am a certified software developer with more than 10 years of experience, mainly in Microsoft technologies
 
-Here are some ideas to get you started:
+You can follow my work through:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📹 Youtube: https://youtube.com/c/elcaminodev
+🌐 Blog: https://elcamino.dev/blog
+
+Communities:
+
+🔥 Secretos Xamarin/MAUI: https://www.facebook.com/groups/xamarinenespanol
+🔥 Secretos Blazor: https://www.facebook.com/groups/secretosblazor
