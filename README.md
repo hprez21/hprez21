@@ -5,6 +5,7 @@ i am héctor pérez, from El Camino Dev, I am a certified software developer wit
 You can follow my work through:
 
 📹 Youtube: https://youtube.com/c/elcaminodev
+
 🌐 Blog: https://elcamino.dev/blog
 
 Communities:
