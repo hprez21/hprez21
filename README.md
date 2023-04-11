@@ -4,9 +4,13 @@ i am héctor pérez, from El Camino Dev, I am a certified software developer wit
 
 You can follow my work through:
 
-📹 Youtube: https://youtube.com/c/elcaminodev
+📹 Youtube in English: https://youtube.com/@devsschool
 
-🌐 Blog: https://elcamino.dev/blog
+📹 Youtube in Spanish: https://youtube.com/c/elcaminodev
+
+🌐 Blog in English: https://devs.school
+
+🌐 Blog in Spanish: https://elcamino.dev/blog
 
 Communities:
 
